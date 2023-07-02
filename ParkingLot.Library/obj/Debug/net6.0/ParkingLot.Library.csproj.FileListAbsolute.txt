@@ -1,0 +1,15 @@
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/bin/Debug/net6.0/ParkingLot.Library.deps.json
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/bin/Debug/net6.0/ParkingLot.Library.dll
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/bin/Debug/net6.0/ParkingLot.Library.pdb
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/bin/Debug/net6.0/ParkingLot.Interfaces.dll
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/bin/Debug/net6.0/ParkingLot.Interfaces.pdb
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ParkingLot.Library.csproj.AssemblyReference.cache
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ParkingLot.Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ParkingLot.Library.AssemblyInfoInputs.cache
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ParkingLot.Library.AssemblyInfo.cs
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ParkingLot.Library.csproj.CoreCompileInputs.cache
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ParkingLot.Library.csproj.CopyComplete
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ParkingLot.Library.dll
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/refint/ParkingLot.Library.dll
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ParkingLot.Library.pdb
+/Users/natnael/Desktop/ParkingLot/ParkingLot.Library/obj/Debug/net6.0/ref/ParkingLot.Library.dll

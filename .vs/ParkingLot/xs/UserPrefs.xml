@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{C80634BF-4A96-434B-9926-062A5415A25C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ParkingLot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/natnael/Desktop/ParkingLot/ParkingLot/Program.cs" relfile="ParkingLot/Program.cs" line="26" column="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParkingLot/Program.cs">
+    <Files>
+      <File FileName="ParkingLot/Program.cs" Line="44" Column="1" />
+      <File FileName="ParkingLot.Library/ParkingLot.cs" Line="27" Column="1" />
+      <File FileName="ParkingLot.Library/ParkingLotGate.cs" Line="27" Column="120" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParkingLot" expanded="True">
+            <Node name="ParkingLot" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ParkingLot.Library" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
